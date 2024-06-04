@@ -1,0 +1,1 @@
+export const REACT_API_KEY = `http://localhost:6767/api`;
